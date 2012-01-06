@@ -5,12 +5,11 @@ using System.Text;
 
 namespace ConsoleApplication3
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
+        public void someMethod()
         {
-            // some changes
-            // some more changes that will conflict
+            System.Console.WriteLine("hello");
         }
     }
 }

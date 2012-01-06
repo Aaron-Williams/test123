@@ -11,6 +11,7 @@ namespace ConsoleApplication3
         {
             // some changes
             // some more changes that will conflict with Aarons work
+            // a change that will conflict
         }
     }
 }

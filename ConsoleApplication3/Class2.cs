@@ -7,5 +7,9 @@ namespace ConsoleApplication3
 {
     class Class2
     {
+        public void Hello()
+        {
+
+        }
     }
 }

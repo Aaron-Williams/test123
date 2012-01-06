@@ -8,6 +8,6 @@ public class ClassNew
 
     public void Hello()
     {
-
+        Console.WriteLine("Hello");
     }
 }

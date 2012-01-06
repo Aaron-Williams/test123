@@ -10,7 +10,7 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             // some changes
-            // some more changes that will conflict
+            // some more changes that will conflict with Aarons work
         }
     }
 }

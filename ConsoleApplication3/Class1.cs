@@ -9,7 +9,7 @@ namespace ConsoleApplication3
     {
         public void someMethod()
         {
-            System.Console.WriteLine("hello");
+            System.Console.WriteLine("hello world!");
         }
     }
 }

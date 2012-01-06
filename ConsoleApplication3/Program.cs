@@ -9,7 +9,7 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
-            // some changes
+            // some changes that will conflict
         }
     }
 }
